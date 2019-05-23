@@ -16,10 +16,7 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/yansern/vue-multipane/index.html",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yansern/vue-multipane.git"
-  },
+  "repository": "git+https://github.com/yansern/vue-multipane.git",
   "bugs": {
     "url": "https://github.com/yansern/vue-multipane/issues"
   },
